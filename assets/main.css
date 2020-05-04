@@ -1,0 +1,48 @@
+html {
+    padding-right: 0;
+}
+
+body {
+    padding-right: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.site-header {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.last_update {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* .summed-figs {
+    padding-right: 0;
+} */
+
+.alert-primary {
+    text-align: center;
+}
+
+.graph-title {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.alert {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.inputs {
+    margin-top: 10px;
+}
+
+.graph-wrapper {
+    border: 2px solid #f0f6ff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
