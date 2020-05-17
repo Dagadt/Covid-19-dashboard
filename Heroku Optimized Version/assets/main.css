@@ -45,4 +45,14 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
+
+.country_stat_wrapper {
+    border: 2px solid #f0f6ff;
+    margin: 10px;
+}
+
